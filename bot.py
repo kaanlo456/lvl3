@@ -36,6 +36,4 @@ async def ban_error(ctx, error):
         await ctx.send("Kullanıcı bulunamadı!")
 
 
-    
-
 bot.run(token)
