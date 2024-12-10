@@ -35,4 +35,7 @@ async def ban_error(ctx, error):
     elif isinstance(error, commands.MemberNotFound):
         await ctx.send("Kullanıcı bulunamadı!")
 
+
+    
+
 bot.run(token)
