@@ -1,1 +1,1 @@
-GOOOD
+PUT YOUR TOKEN TO "config.py" PLS
